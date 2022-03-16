@@ -1,3 +1,3 @@
-module code.galaxy-future.com/dtexpress/encryptpkg
+module github.com/jaylu163/huaan
 
-go 1.15
+go 1.16
